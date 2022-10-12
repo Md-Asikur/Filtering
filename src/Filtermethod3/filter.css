@@ -1,0 +1,40 @@
+.tags {
+	text-align: center;
+	padding: 20px 0px;
+    font-size: 1.6em;
+	background-color: rgb(43, 92, 226);
+    
+}
+
+.tag {
+	outline: none;
+	border: none;
+	color: #eee;
+	margin: 0px 10px;
+	background-color: transparent;
+	cursor: pointer;
+}
+
+.active {
+	font-weight: bold;
+	border-bottom: 1px solid #eee;
+}
+.container {
+	width: 80%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 20px;
+}
+
+.image-card {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+}
+
+.image {
+    height: 400px;
+	width: 100%;
+}

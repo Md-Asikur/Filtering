@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "./image/office1.jpg",
+    "category": "Office"
+  },
+  {
+    "id": 2,
+    "image": "./image/office5.jpg",
+    "category": "Office"
+  },
+  {
+    "id": 3,
+    "image": "./image/office4.jpg",
+    "category": "Office"
+  },
+  {
+    "id": 4,
+    "image": "./image/Python1.jpg",
+    "category": "Python"
+  },
+  {
+    "id": 5,
+    "image": "./image/Python2.jpg",
+    "category": "Python"
+  },
+  {
+    "id": 6,
+    "image": "./image/Python3.jpg",
+    "category": "Asik"
+  },
+  {
+    "id": 7,
+    "image": "./image/React2.jpg",
+    "category": "React"
+  },
+  {
+    "id": 8,
+    "image": "./image/React1.jpg",
+    "category": "React"
+  },
+  {
+    "id": 9,
+    "image": "./image/React3.jpg",
+    "category": "React"
+  },
+  {
+    "id": 10,
+    "image": "./image/office3.jpg",
+    "category": "Asik"
+  }
+]
